@@ -333,15 +333,18 @@ html lang="en">
 ```
 ## OUTPUT:
 ### Home Page:
-![HOMEPAGE](home.png)
+![Screenshot (94)](https://user-images.githubusercontent.com/119557985/215420375-73830335-e2cd-4a5c-a1c9-98bf4fa75c98.png)
+
 ### Products:
-![PRODUCT](products.png)
+![Screenshot (96)](https://user-images.githubusercontent.com/119557985/215420452-7f5968e5-ddef-422e-bd1b-4b27ddbec8da.png)
+![Screenshot (97)](https://user-images.githubusercontent.com/119557985/215420477-240c9d83-b4de-494d-b03d-c37baf87ff9e.png)
+
 ### People:
-![PEOPLE](people.png)
+![ppl](https://user-images.githubusercontent.com/119557985/215422024-b1af0068-2aad-4a4a-a042-30fb63dd8d6e.jpg)
+
 ### Contact:
-![CONTACT](contact.png)
-### Html validation:
-![HTMLVALIDATION](htmlvalidation.png)
+![contcat](https://user-images.githubusercontent.com/119557985/215422111-b43ca0f4-ca5a-4e5b-9b0f-c28b75eb07a7.jpg)
+
 
 ## Result:
 
